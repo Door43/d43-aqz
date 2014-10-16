@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aqz:home|Door43 (aqz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aqz|d43-aqz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aqz/archive/master.zip|d43-aqz.zip]]
+
+**Recent Changes**
+{{changes>ns = aqz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aqz|Ethnologue data]]
+
